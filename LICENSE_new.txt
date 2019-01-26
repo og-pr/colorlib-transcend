@@ -4,13 +4,12 @@ Unless otherwise noted, all NEW code is Copyright (c) 2018-2019 Otto Grajeda
 (ottograjeda@gmail.com) and is licensed under Apache License 2.0 .  
 All Rights Reserved .
 
-
 NOTE: 
 Original License & Code Copyright (c) May 2018 Colorlib
 Licence: CC BY 3.0 (footer credits must remain in place)
 See URL for details @ https://colorlib.com/wp/template/transcend/
 
-=============================================================================
+============================================================================
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
