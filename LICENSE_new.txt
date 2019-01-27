@@ -2,7 +2,7 @@ This work, is a derivative of "Transcend" by Colorlib, used under CC BY 3.0.
 
 Unless otherwise noted, all NEW code is Copyright (c) 2018-2019 Otto Grajeda
 (ottograjeda@gmail.com) and is licensed under Apache License 2.0 .  
-All Rights Reserved .
+All rights reserved .
 
 NOTE: 
 Original License & Code Copyright (c) May 2018 Colorlib
