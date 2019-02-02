@@ -2,6 +2,9 @@
   > Original files left as is
   > Added license files 
 
+* Jan 27 2019	
+  > Added PayPal button to integrate with API (for 1 product)
+
 * Jan 31 2019	
   > Tag v0.1 aka original source 
   > Change folder/file structure. Remove items not needed
